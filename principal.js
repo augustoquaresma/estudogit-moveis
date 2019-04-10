@@ -1,1 +1,1 @@
-setTime(1000)
+setTime2(1000)
